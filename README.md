@@ -1,3 +1,7 @@
+## API do Rick and Morty
+
+# Aluno: Tiago de Gouveia Martins Neumann
+
 - API: Rick and Morty API
 - Devolve: ID, name, status, species, type, gender, origin, location, image, episode, url, created
 - Endereço: https://rickandmortyapi.com/api/character/19
