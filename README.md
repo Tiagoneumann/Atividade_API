@@ -7,4 +7,4 @@
 - Endereço: https://rickandmortyapi.com/api/character/19
 - Rodar: Abrir no index.html, não precisa de servidor.
 
-![Imagem dos dados da API](./img/Dados%20Recebidos.png)
+![Imagem dos dados da API](./assets/img/Dados%20Recebidos.png)
